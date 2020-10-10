@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,12 +176,20 @@
       <option name="project" value="LOCAL" />
       <updated>1602305881650</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Override onOptionsItemSelected">
+      <created>1602306136285</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602306136285</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Override onOptionsItemSelected" />
+    <option name="LAST_COMMIT_MESSAGE" value="Override onOptionsItemSelected" />
   </component>
   <component name="WindowStateProjectService">
     <state x="491" y="109" width="374" height="581" key="#com.intellij.ide.util.MemberChooser" timestamp="1602306034162">
@@ -191,10 +200,10 @@
       <screen x="0" y="25" width="1366" height="743" />
     </state>
     <state x="518" y="288" width="320" height="222" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.25.1366.743@0.25.1366.743" timestamp="1602263390326" />
-    <state x="100" y="25" width="1155" height="743" key="CommitChangelistDialog2" timestamp="1602305880960">
+    <state x="100" y="25" width="1155" height="743" key="CommitChangelistDialog2" timestamp="1602306136040">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state x="100" y="25" width="1155" height="743" key="CommitChangelistDialog2/0.25.1366.743@0.25.1366.743" timestamp="1602305880960" />
+    <state x="100" y="25" width="1155" height="743" key="CommitChangelistDialog2/0.25.1366.743@0.25.1366.743" timestamp="1602306136040" />
     <state width="1318" height="173" key="GridCell.Tab.0.bottom" timestamp="1602305989197">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
@@ -211,13 +220,17 @@
       <screen x="0" y="25" width="1366" height="743" />
     </state>
     <state width="1318" height="173" key="GridCell.Tab.0.right/0.25.1366.743@0.25.1366.743" timestamp="1602305989196" />
-    <state x="278" y="132" width="800" height="534" key="Vcs.Push.Dialog.v2" timestamp="1602305914842">
+    <state x="278" y="132" width="800" height="534" key="Vcs.Push.Dialog.v2" timestamp="1602306154316">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state x="278" y="132" width="800" height="534" key="Vcs.Push.Dialog.v2/0.25.1366.743@0.25.1366.743" timestamp="1602305914842" />
+    <state x="278" y="132" width="800" height="534" key="Vcs.Push.Dialog.v2/0.25.1366.743@0.25.1366.743" timestamp="1602306154316" />
     <state x="319" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1602305365488">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
     <state x="319" y="224" key="com.intellij.ide.util.TipDialog/0.25.1366.743@0.25.1366.743" timestamp="1602305365488" />
+    <state width="347" height="88" key="javadoc.popup.new" timestamp="1602306272382">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="347" height="88" key="javadoc.popup.new/0.25.1366.743@0.25.1366.743" timestamp="1602306272382" />
   </component>
 </project>
